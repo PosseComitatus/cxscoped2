@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">60d27806974b111035d9bbc3f153af68</sp_column>
+        <sp_widget display_value="Knowledge Search">6df47e71db12220099f93691f0b8f560</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 03:53:02</sys_created_on>
+        <sys_id>78f2bc06974b111035d9bbc3f153af84</sys_id>
+        <sys_name/>
+        <sys_package display_value="cxScoped2" source="x_440155_cxscoped2">9be0f482974b111035d9bbc3f153afd1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cxScoped2">9be0f482974b111035d9bbc3f153afd1</sys_scope>
+        <sys_update_name>sp_instance_78f2bc06974b111035d9bbc3f153af84</sys_update_name>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=78f2bc06974b111035d9bbc3f153af84"/>
+</record_update>

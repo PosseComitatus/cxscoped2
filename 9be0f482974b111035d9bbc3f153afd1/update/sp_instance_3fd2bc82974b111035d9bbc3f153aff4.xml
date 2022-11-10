@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e8d27806974b111035d9bbc3f153af65</sp_column>
+        <sp_widget display_value="Approvals">f37aa302cb70020000f8d856634c9cfc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 03:52:42</sys_created_on>
+        <sys_id>3fd2bc82974b111035d9bbc3f153aff4</sys_id>
+        <sys_name/>
+        <sys_package display_value="cxScoped2" source="x_440155_cxscoped2">9be0f482974b111035d9bbc3f153afd1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cxScoped2">9be0f482974b111035d9bbc3f153afd1</sys_scope>
+        <sys_update_name>sp_instance_3fd2bc82974b111035d9bbc3f153aff4</sys_update_name>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3fd2bc82974b111035d9bbc3f153aff4"/>
+</record_update>
