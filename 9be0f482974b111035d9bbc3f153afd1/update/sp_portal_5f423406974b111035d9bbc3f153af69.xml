@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables/>
+        <css_variables>$brand-primary:#50ecd6;
+$body-bg:#278efc;
+$state-success-text:#1F8476;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#476459;
+$text-color:#ffffff;
+$sp-logo-margin-y:.7rem;
+$navbar-inverse-link-hover-color:#FFFFFF;
+$panel-bg:#fff;
+$brand-success:#1F8476;
+$navbar-inverse-bg:#1c6b76;
+$brand-warning:#DFD139;
+$brand-danger:#C83C36;
+$sp-tagline-color:#717171;
+$navbar-inverse-link-color:#D9D9D9;
+$brand-info:#6ABECF;
+$link-color:#1F8476;
+$sp-logo-margin-x:.6rem;
+$btn-default-bg:#fff;
+$text-muted:#666666;
+</css_variables>
         <default>false</default>
         <enable_ais>false</enable_ais>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
-        <homepage display_value="cxscoped2home">4ac2f482974b111035d9bbc3f153afb0</homepage>
+        <homepage display_value="cx2_home">4ac2f482974b111035d9bbc3f153afb0</homepage>
         <icon/>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
@@ -29,7 +49,7 @@
         <sys_policy/>
         <sys_scope display_value="cxScoped2">9be0f482974b111035d9bbc3f153afd1</sys_scope>
         <sys_update_name>sp_portal_5f423406974b111035d9bbc3f153af69</sys_update_name>
-        <theme/>
+        <theme display_value="cx1_theme">592e7c02978b111035d9bbc3f153af4e</theme>
         <title>cx_scoped2</title>
         <ts_index_group/>
         <url_suffix>cx2</url_suffix>

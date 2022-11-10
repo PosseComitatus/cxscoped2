@@ -6,15 +6,15 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>cxscoped2home - Container 1</name>
+        <name>cx2_Home - Container 1</name>
         <order>1</order>
-        <sp_page display_value="cxscoped2home">4ac2f482974b111035d9bbc3f153afb0</sp_page>
+        <sp_page display_value="cx2_home">4ac2f482974b111035d9bbc3f153afb0</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-10 03:54:23</sys_created_on>
         <sys_id>a443b046974b111035d9bbc3f153afe2</sys_id>
-        <sys_name>cxscoped2home - Container 1</sys_name>
+        <sys_name>cx2_Home - Container 1</sys_name>
         <sys_package display_value="cxScoped2" source="x_440155_cxscoped2">9be0f482974b111035d9bbc3f153afd1</sys_package>
         <sys_policy/>
         <sys_scope display_value="cxScoped2">9be0f482974b111035d9bbc3f153afd1</sys_scope>

@@ -4,7 +4,7 @@
         <css/>
         <draft>false</draft>
         <dynamic_title_structure/>
-        <id>cxscoped2home</id>
+        <id>cx2_home</id>
         <internal>false</internal>
         <omit_watcher>false</omit_watcher>
         <public>false</public>
@@ -15,12 +15,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-10 03:52:18</sys_created_on>
         <sys_id>4ac2f482974b111035d9bbc3f153afb0</sys_id>
-        <sys_name>cxscoped2home</sys_name>
+        <sys_name>cx2_home</sys_name>
         <sys_package display_value="cxScoped2" source="x_440155_cxscoped2">9be0f482974b111035d9bbc3f153afd1</sys_package>
         <sys_policy/>
         <sys_scope display_value="cxScoped2">9be0f482974b111035d9bbc3f153afd1</sys_scope>
         <sys_update_name>sp_page_4ac2f482974b111035d9bbc3f153afb0</sys_update_name>
-        <title>cxscoped2home</title>
+        <title>cx2_Home</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=4ac2f482974b111035d9bbc3f153afb0"/>
